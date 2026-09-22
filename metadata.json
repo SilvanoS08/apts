@@ -1,0 +1,6 @@
+{
+  "name": "Apartamentos Tatuapé, Mooca e Vila Ema",
+  "description": "Encontre o apartamento dos seus sonhos nas melhores regiões da Zona Leste de São Paulo: Tatuapé, Mooca e Vila Ema.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
